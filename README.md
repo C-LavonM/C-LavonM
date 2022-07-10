@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Getting better and better at coding
+- 🔭 I’m currently working on ...Getting better and better at coding.
 - 🌱 I’m currently learning ...Backend coding
-- 👯 I’m looking to collaborate on ...not sure yet but anything that can help me continue perfecting my skills
+- 👯 I’m looking to collaborate on ...not sure yet but anything that can help me continue perfecting my skills.
 - 🤔 I’m looking for help with ... javascript
 - 💬 Ask me about ...gaming, books, music
 - 📫 How to reach me: ...message me on https://www.linkedin.com/in/lavon-c-5006b061/
