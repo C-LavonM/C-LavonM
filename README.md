@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...message me on https://www.linkedin.com/in/lavon-c-5006b061/
 - ⚡ Fun fact: ...I have built my own computer, I am a gamer, love music ♬ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-LavonM)](https://github.com/C-LavonM/github-readme-stats)
 
