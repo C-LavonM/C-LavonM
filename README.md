@@ -1,4 +1,4 @@
-### Hi there, I am 👋
+### Hey there, I am 👋
 ![](Lav-logo.gif)
 
 ![Lavon's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-LavonM&show_icons=true&theme=tokyonight)
